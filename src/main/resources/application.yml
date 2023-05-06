@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ecommerce
+  profiles:
+    include:
+      - db
